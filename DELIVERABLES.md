@@ -41,7 +41,7 @@ b5f3324c38fa201c36c4b9a1b92d7466fa9c280309086a2d799b18095b3ce076
 | **Scope** | Four x402 virtual hosts in service across the window |
 | **Format** | PDF report and JSON Lines dataset |
 
-**Bundle — 6 files:**
+**Bundle — 7 files:**
 
 | File | Description |
 |---|---|
@@ -51,6 +51,7 @@ b5f3324c38fa201c36c4b9a1b92d7466fa9c280309086a2d799b18095b3ce076
 | `DATA-DICTIONARY.md` | Field reference for the dataset. |
 | `manifest-signed.json` | Ed25519-signed integrity manifest. |
 | `README.txt` | Contents and verification steps. |
+| `LICENSE.txt` | License and distribution terms (institutional use). |
 
 Dataset integrity — the SHA-256 digest of File 1, as recorded in the signed manifest:
 ```
